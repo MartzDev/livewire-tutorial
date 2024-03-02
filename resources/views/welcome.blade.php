@@ -9,7 +9,15 @@
 </head>
 
 <body>
-    <livewire:componente />
+    <section>
+        <livewire:componente />
+    </section>
+
+    <br>
+
+    <section>
+        <livewire:contador.contador-componente />
+    </section>
 </body>
 
 </html>
