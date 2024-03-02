@@ -18,6 +18,13 @@
     <section>
         <livewire:contador.contador-componente />
     </section>
+
+
+    <br>
+
+    <section>
+        <livewire:propiedades.lista-componente />
+    </section>
 </body>
 
 </html>
